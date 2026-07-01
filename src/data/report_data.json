@@ -1,0 +1,402 @@
+{
+  "summary": {
+    "primary": {
+      "total_spend": 2914.54,
+      "total_reach": 79857,
+      "total_impressions": 266957,
+      "total_results": 41158.0,
+      "total_link_clicks": 1992.0,
+      "frequency": 3.34,
+      "cpm": 10.92,
+      "cost_per_result": 0.0708,
+      "duration_days": 500,
+      "num_campaigns": 45,
+      "period": "Jan 1, 2025 \u2013 May 20, 2026"
+    },
+    "runoff": {
+      "total_spend": 2276.83,
+      "total_reach": 31606,
+      "total_impressions": 210606,
+      "total_results": 58678.0,
+      "total_engagements": 1329.0,
+      "frequency": 6.66,
+      "cpm": 10.81,
+      "cost_per_result": 0.0388,
+      "duration_days": 31,
+      "num_campaigns": 14,
+      "period": "May 21 \u2013 June 21, 2026"
+    }
+  },
+  "primary_campaigns": [
+    {
+      "name": "Canvassing Events in April",
+      "spend": 531.45,
+      "reach": 5855,
+      "impressions": 10296,
+      "results": 22
+    },
+    {
+      "name": "Post: \"Good morning! \u2600\ufe0f I\u2019m hosting a short virtual meet...\"",
+      "spend": 444.1,
+      "reach": 30568,
+      "impressions": 57854,
+      "results": 711
+    },
+    {
+      "name": "[11/11/2025] Promoting https://www.amandaforga.com",
+      "spend": 144.87,
+      "reach": 7752,
+      "impressions": 12497,
+      "results": 470
+    },
+    {
+      "name": "Glynn & Liberty County Awareness",
+      "spend": 142.52,
+      "reach": 6487,
+      "impressions": 16173,
+      "results": 6487
+    },
+    {
+      "name": "Early Voting Awareness",
+      "spend": 132.55,
+      "reach": 13734,
+      "impressions": 21006,
+      "results": 13734
+    },
+    {
+      "name": "Post Engagement",
+      "spend": 109.11,
+      "reach": 2867,
+      "impressions": 9818,
+      "results": 523
+    },
+    {
+      "name": "Awareness Campaign",
+      "spend": 106.38,
+      "reach": 9075,
+      "impressions": 16001,
+      "results": 4636
+    },
+    {
+      "name": "Engagement: Video Post",
+      "spend": 100.0,
+      "reach": 4880,
+      "impressions": 7815,
+      "results": 4197
+    },
+    {
+      "name": "[3/16/2026] Promoting https://sldr.it/s/amandaforgavolunteer",
+      "spend": 98.56,
+      "reach": 7280,
+      "impressions": 10328,
+      "results": 61
+    },
+    {
+      "name": "Early Voting Engagement",
+      "spend": 94.48,
+      "reach": 3034,
+      "impressions": 6129,
+      "results": 1741
+    }
+  ],
+  "runoff_campaigns": [
+    {
+      "name": "Targeted Runoff Precincts | Awareness",
+      "spend": 1239.1,
+      "reach": 47035,
+      "impressions": 140621,
+      "results": 47035,
+      "engagements": 212,
+      "cpe": 0.0263
+    },
+    {
+      "name": "Traffic: Mobilize Recruitment",
+      "spend": 211.08,
+      "reach": 5104,
+      "impressions": 17576,
+      "results": 235,
+      "engagements": 151,
+      "cpe": 0.8982
+    },
+    {
+      "name": "Chatham County Engagement",
+      "spend": 153.04,
+      "reach": 5944,
+      "impressions": 10527,
+      "results": 3889,
+      "engagements": 438,
+      "cpe": 0.0394
+    },
+    {
+      "name": "Glynn County Engagement",
+      "spend": 148.12,
+      "reach": 2177,
+      "impressions": 8237,
+      "results": 442,
+      "engagements": 71,
+      "cpe": 0.3351
+    },
+    {
+      "name": "Appling County Engagement",
+      "spend": 104.85,
+      "reach": 1236,
+      "impressions": 4205,
+      "results": 585,
+      "engagements": 34,
+      "cpe": 0.1792
+    },
+    {
+      "name": "Ware County Engagement",
+      "spend": 81.34,
+      "reach": 1139,
+      "impressions": 3844,
+      "results": 1002,
+      "engagements": 26,
+      "cpe": 0.0812
+    },
+    {
+      "name": "Mcintosh County Engagement",
+      "spend": 81.26,
+      "reach": 1159,
+      "impressions": 3977,
+      "results": 956,
+      "engagements": 52,
+      "cpe": 0.085
+    },
+    {
+      "name": "Liberty County Engagement",
+      "spend": 72.05,
+      "reach": 2373,
+      "impressions": 4818,
+      "results": 1562,
+      "engagements": 70,
+      "cpe": 0.0461
+    },
+    {
+      "name": "Posts Engagement Campaign",
+      "spend": 49.87,
+      "reach": 2769,
+      "impressions": 4173,
+      "results": 2448,
+      "engagements": 140,
+      "cpe": 0.0204
+    },
+    {
+      "name": "ActBlue Traffic Campaign",
+      "spend": 40.9,
+      "reach": 643,
+      "impressions": 1871,
+      "results": 5,
+      "engagements": 38,
+      "cpe": 8.18
+    },
+    {
+      "name": "In Church Post: \"When I talk about the stakes for democracy ",
+      "spend": 40.32,
+      "reach": 1409,
+      "impressions": 3476,
+      "results": 425,
+      "engagements": 53,
+      "cpe": 0.0949
+    },
+    {
+      "name": "June 1st Debate",
+      "spend": 24.93,
+      "reach": 2894,
+      "impressions": 5846,
+      "results": 37,
+      "engagements": 15,
+      "cpe": 0.6738
+    },
+    {
+      "name": "Post: \"We are now in the final stretch, and there are...\"",
+      "spend": 17.44,
+      "reach": 424,
+      "impressions": 741,
+      "results": 0,
+      "engagements": 16,
+      "cpe": null
+    },
+    {
+      "name": "Post: \"Hello, First Congressional District \u2600\ufe0f TODAY is...\"",
+      "spend": 12.53,
+      "reach": 445,
+      "impressions": 694,
+      "results": 57,
+      "engagements": 13,
+      "cpe": 0.2198
+    }
+  ],
+  "age_comparison": {
+    "primary": [
+      {
+        "age": "65+",
+        "spend": 1157.09,
+        "reach": 41042,
+        "results": 14011
+      },
+      {
+        "age": "55-64",
+        "spend": 460.5,
+        "reach": 25333,
+        "results": 10219
+      },
+      {
+        "age": "45-54",
+        "spend": 352.57,
+        "reach": 18101,
+        "results": 7158
+      },
+      {
+        "age": "35-44",
+        "spend": 275.11,
+        "reach": 16390,
+        "results": 5909
+      },
+      {
+        "age": "25-34",
+        "spend": 223.86,
+        "reach": 15200,
+        "results": 3038
+      },
+      {
+        "age": "18-24",
+        "spend": 184.97,
+        "reach": 15649,
+        "results": 823
+      },
+      {
+        "age": "Unknown",
+        "spend": 0.02,
+        "reach": 0,
+        "results": 0
+      }
+    ],
+    "runoff": [
+      {
+        "age": "65+",
+        "spend": 520.83,
+        "reach": 14933,
+        "results": 11755
+      },
+      {
+        "age": "55-64",
+        "spend": 501.89,
+        "reach": 15619,
+        "results": 12158
+      },
+      {
+        "age": "45-54",
+        "spend": 466.49,
+        "reach": 15706,
+        "results": 12359
+      },
+      {
+        "age": "35-44",
+        "spend": 462.24,
+        "reach": 16764,
+        "results": 13362
+      },
+      {
+        "age": "25-34",
+        "spend": 261.94,
+        "reach": 9493,
+        "results": 7436
+      },
+      {
+        "age": "18-24",
+        "spend": 63.44,
+        "reach": 2233,
+        "results": 1607
+      },
+      {
+        "age": "Unknown",
+        "spend": 0.0,
+        "reach": 3,
+        "results": 1
+      }
+    ]
+  },
+  "gender_comparison": {
+    "primary": {
+      "female": {
+        "spend": 1557.43,
+        "reach": 67865,
+        "results": 23769
+      },
+      "male": {
+        "spend": 1072.03,
+        "reach": 62739,
+        "results": 17109
+      },
+      "unknown": {
+        "spend": 24.66,
+        "reach": 1111,
+        "results": 280
+      }
+    },
+    "runoff": {
+      "female": {
+        "spend": 1477.33,
+        "reach": 46804,
+        "results": 36493
+      },
+      "male": {
+        "spend": 780.45,
+        "reach": 27322,
+        "results": 21747
+      },
+      "unknown": {
+        "spend": 19.05,
+        "reach": 625,
+        "results": 438
+      }
+    }
+  },
+  "result_types": {
+    "primary": {
+      "Reach": 182,
+      "Post engagements": 148,
+      "Link clicks": 58,
+      "ThruPlay": 45,
+      "Landing page views": 41,
+      "Event responses": 39,
+      "Facebook Page visits": 21,
+      "Ad recall lift": 15
+    },
+    "runoff": {
+      "Reach": 329,
+      "Post engagements": 261,
+      "Link clicks": 51,
+      "ThruPlay": 23,
+      "Instagram Profile Visits": 4,
+      "Landing page views": 3
+    }
+  },
+  "efficiency": {
+    "cpm": {
+      "primary": 10.92,
+      "runoff": 10.81
+    },
+    "cost_per_result": {
+      "primary": 0.0708,
+      "runoff": 0.0388
+    },
+    "frequency": {
+      "primary": 3.34,
+      "runoff": 6.66
+    },
+    "results_per_dollar": {
+      "primary": 14.12,
+      "runoff": 25.77
+    },
+    "daily_spend": {
+      "primary": 5.83,
+      "runoff": 73.45
+    },
+    "daily_reach": {
+      "primary": 160.0,
+      "runoff": 1020.0
+    }
+  }
+}
